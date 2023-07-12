@@ -5,7 +5,7 @@
 
 ### The above tool tries to find the answer to questions likes "what is our relationship?" or to give you a sense of what is going on between you and another person. You are only asked to enter the two names between which you want to calculate the relationship.
 
-The flames calculator is based on quite a simple algorithm in which FLAMES stands for:
+The flame's calculator is based on quite a simple algorithm in which FLAMES stands for:
 
 - **Friendship**
 
@@ -17,9 +17,8 @@ The flames calculator is based on quite a simple algorithm in which FLAMES stand
 
 - **Enemy**
 
-- **Siblings**
 
-The FLAMES test is actually a compatibility analysis that reveals to what extent the relationship between two persons can go, defining that into 6 simple words.
+The FLAME test is actually a compatibility analysis that reveals to what extent the relationship between two persons can go, defining that into 6 simple words.
 
 You can use it as a love meter to see whether you and your crush have any chance to get serious or simply to see what future holds between you and the person you just met. This is just another fun name game that most pre-teens and teens have tried.
 
